@@ -9,8 +9,8 @@ Llama 2 is an auto-regressive language model that uses an optimized transformer 
 --------------------------------------------------------------------------------------------------------------------
                                                 Insallation
 --------------------------------------------------------------------------------------------------------------------
-1.Open the .ipynb file in the Colab.
-2.Get your API Token and Environment from the Pinecone.
-3.Get the Access token from the Huggingface. And the request the model "meta-llama/Llama-2-7b-chat-hf" from meta. As it is private repository.
-4.Once meta approves the access then download the model or directly access the model from the Huggingface once the approve was given.
-5.Replace the api keys and tokens and run the cells.
+1.Open the .ipynb file in the Colab. <br>
+2.Get your API Token and Environment from the Pinecone.<br>
+3.Get the Access token from the Huggingface. And the request the model "meta-llama/Llama-2-7b-chat-hf" from meta. As it is private repository.<br>
+4.Once meta approves the access then download the model or directly access the model from the Huggingface once the approve was given.<br>
+5.Replace the api keys and tokens and run the cells.<br>
